@@ -16,5 +16,9 @@
     "url": "https://github.com/Hussain0531/Portfolio-Website/issues"
   },
   "homepage": "https://github.com/Hussain0531/Portfolio-Website#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "stylelint": "^16.13.2",
+    "stylelint-config-standard": "^37.0.0"
+  }
 }

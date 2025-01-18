@@ -16,8 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
 
-      - name: create package.json
-        uses: npm init -y
+        
 
       - name: Install Dependencies
         run: npm install --save-dev htmlhint stylelint
